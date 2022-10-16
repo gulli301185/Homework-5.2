@@ -1,0 +1,38 @@
+.App {
+text-align: center;
+}
+.b1{
+  width: 150px;
+  height: 150px;
+ background-color:yellow;
+ margin: auto;
+ margin-top: 20px;
+ 
+}
+
+.b2{
+  width: 150px;
+  height: 150px;
+ background-color:green;
+ margin: auto;
+ margin-top: 20px;
+ 
+}
+
+.b3{
+  width: 150px;
+  height: 150px;
+ background-color:lime;
+ margin: auto;
+ margin-top: 20px;
+ 
+}
+
+.b4{
+  width: 150px;
+  height: 150px;
+ background-color:red;
+ margin: auto;
+ margin-top: 20px;
+ 
+}
